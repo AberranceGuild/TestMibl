@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ea51345df7542cb9f9be1c423c8163c, type: 3}
+  m_Name: ViewInstaller
+  m_EditorClassIdentifier: 
+  MainCanvasPrefab: {fileID: 1407153970794975143, guid: ba1fdfd9396768847b030db3480e65cb, type: 3}
+  GameViewPrefab: {fileID: 358687089030659039, guid: b8f6bfb355e6a8841a2aaa0cef6612d7, type: 3}
+  GameOverViewPrefab: {fileID: 7474520242917609935, guid: 99e6cb60af1164745a38a62e590f571d, type: 3}
+  StartGameViewPrefab: {fileID: 163325285234204240, guid: 0c7dd3e5ba0d90e42a653feb93a116c1, type: 3}
+  LevelCompletedViewPrefab: {fileID: 7132689845768488277, guid: a46bb6d48ea27c4409c5205c83903462, type: 3}
+  PauseViewPrefab: {fileID: 308932024818752901, guid: 39c1232746541a4408d8606887309a97, type: 3}
+  MovementPrefab: {fileID: 4682538134072281447, guid: 3ca2a77b9131d9c48b0eaca2b12df70b, type: 3}
